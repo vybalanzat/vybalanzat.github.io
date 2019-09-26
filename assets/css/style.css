@@ -1,23 +1,42 @@
 
  * {
     box-sizing: border-box;
+   
   }
 
   body {
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
+    margin: auto;
   }
 
   h1 {
-      font-family: Georgia, 'Times New Roman', Times, serif;    
-  }
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: #fff;
+      border-color: #ccc;
+      color: #4aaaa5;
+
+    }
 
 ul {
     list-style-type: none;
-    float: left;
+    float: right;
 }
 
 li {
     display: inline;
 }
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+   
+}
+
+section {
+    width: 960px;
+
+}
+
+
 
