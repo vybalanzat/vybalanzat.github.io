@@ -8,12 +8,15 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
     margin: auto;
+    background-image: image("")
   }
   
   heading {
       color: #4aaaa5;
       background: #fff;
       border-color: #666;
+
+  }
       
   h1 {
       border-color: #ccc;
@@ -21,24 +24,24 @@
 
     }
 
-    ul {
+ul {
     list-style-type: none;
     float: right;
     
 }
 
-    li {
+li {
     display: inline;
     
 }
 
-    .font {
+.font {
     font-family: Georgia, 'Times New Roman', Times, serif;
    
    
 }
 
-    section {
+section {
     width: 960px;
 
 }
